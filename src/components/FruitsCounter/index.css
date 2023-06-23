@@ -1,0 +1,46 @@
+.yellow {
+  background-color: yellow;
+  padding: 50px;
+  min-height: 100vh;
+}
+.white {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: centre;
+  align-items: center;
+  border-radius: 20px;
+  padding: 20px;
+}
+span {
+  color: yellow;
+}
+
+button {
+  background-color: #007bff;
+  min-height: 50px;
+  min-width: 100px;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  max-height: 500px;
+}
+.up {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.btn-container {
+  text-align: center;
+}
